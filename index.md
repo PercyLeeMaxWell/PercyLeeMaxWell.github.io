@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to My castle -v-
 
 This is my first blog on github, you can also help me to maintain improve it if you like it.
