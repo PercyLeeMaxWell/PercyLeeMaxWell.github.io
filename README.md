@@ -36,3 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+我的一些心得
+如果存在 index.html，则将使用它而不是 index.md。 如果没有 index.html 或 index.md，将使用 README.md。
