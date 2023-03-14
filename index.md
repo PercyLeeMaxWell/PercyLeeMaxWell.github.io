@@ -30,6 +30,6 @@ Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Im
 Python; Matlab; R; Fortran; data assimilation methods; statistical analysis methods; machine learning methods
 # Prospects
 To discover scale-consistent hydrological theories via cross-scale soil moisture and groundwater data and models;  
-To simulate and predict soil moisture and groundwater more efficiently and effectively for water resources management;
+To simulate and predict soil moisture and groundwater more efficiently and effectively;
 
 
