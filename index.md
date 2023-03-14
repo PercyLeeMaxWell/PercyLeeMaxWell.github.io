@@ -25,7 +25,8 @@ Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Im
 * Soil moisture
 * Groundwater
 * Earth system simulation
-* Earth system observation
+* Earth system observation  
+
 # Skills
 Python; Matlab; R; Fortran; data assimilation methods; statistical analysis methods; machine learning methods
 # Prospects
