@@ -6,7 +6,7 @@ Simple CV
 My studies focus on the analysis of spatiotemporal characteristics of soil water and groundwater data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
 # Education
 MSc & Ph.D. candidate in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018-present).  
-Visiting Scholar at the Helmholtz Centre for Environmental Research – UFZ, Germany (2022-present).
+Visiting student at the Helmholtz Centre for Environmental Research – UFZ, Germany (2022-present).
 # Publications
 **Li, P.**, Zha, Y., Zuo, B., & Zhang, Y. (2023). A family of soil water retention models based on sigmoid functions. Water Resources Research, e2022WR033160. https://doi.org/10.1029/2022WR033160  
 **Li, P.**, Zha, Y., Shi, L., Tso, C. H. M., Zhang, Y., & Zeng, W. (2020). Comparison of the use of a physical-based model with data assimilation and machine learning methods for simulating soil water dynamics. Journal of Hydrology, 584, 124692. https://doi.org/10.1016/j.jhydrol.2020.124692  
