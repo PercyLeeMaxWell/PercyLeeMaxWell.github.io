@@ -19,6 +19,7 @@ Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Im
 * Data Assimilation
 * Neural Network Model
 * Time Series Analysis
+* Intelligent monitoring
 * Remote Sensing
 * Model Development
 * Multi-Scale
