@@ -231,7 +231,19 @@ header {
       background-color: #ffeca0;
     }
   }
+  
 
+  .fork0 {
+    position:fixed;
+    float:right;
+    margin-left:-325px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    background-color: #FFE788;
+  }
+  
   .fork1 {
     position:fixed;
     left:50%;
@@ -246,7 +258,7 @@ header {
   
   .fork2 {
     position:fixed;
-    left:62%;
+    left:55%;
     margin-left:-325px;
     padding: 10px 12px;
     margin-top: 6px;
