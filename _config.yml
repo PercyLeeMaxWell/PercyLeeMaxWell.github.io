@@ -3,4 +3,5 @@ description: Ph.D. candidate in Environmental Sciences
 theme: jekyll-theme-leap-day
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
+permalink:/Research.md
 
