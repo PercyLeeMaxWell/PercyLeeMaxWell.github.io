@@ -21,22 +21,13 @@
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
-
-      <div id="navigation">
-         <ul>
-            <li> <a target="_self" class="active" href="index.html">Home</a> </li>
-            <li> <a target="_self" href="https://www.researchgate.net/profile/Peijun-Li-3/research" class="button fork"><strong>View On ResearchGate</strong></a> </li>
-            <li> <a target="_self" href="research.md">Research</a> </li>
-            <li class="social"> <a href="https://twitter.com/fjcuestavalero"><img src="images/twitter.png" alt="Twitter"/></a> </li>
-          </ul>
-      </div>
     
-      <!--
       <div id="banner">
         <span id="logo"></span>
-
-        <li><a href="https://www.researchgate.net/profile/Peijun-Li-3/research" class="button fork"><strong>View On ResearchGate</strong></a>
-        <a target="_self" href="research.md" class="button fork"><strong>Research</strong></a>
+        <ul>
+          <li><a href="https://www.researchgate.net/profile/Peijun-Li-3/research" class="button fork"><strong>View On ResearchGate</strong></a><li>
+          <li><a target="_self" href="research.md" class="button fork"><strong>Research</strong></a><li>
+        </ul>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -47,7 +38,6 @@
           </div>
         {% endif %}
       </div><!-- end banner -->
-      -->
    
 
     <div class="wrapper">
