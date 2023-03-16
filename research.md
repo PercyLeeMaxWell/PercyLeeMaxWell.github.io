@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 Simple CV
 # Researches
