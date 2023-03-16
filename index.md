@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Simple CV
+CV
 # About Me
 My studies focus on the analysis of spatiotemporal characteristics of soil water and groundwater data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
 # Education
