@@ -245,46 +245,6 @@ header {
       background-color: #ffeca0;
     }
   }
-  
-  .button-container {
-    position:fixed;
-    right:50%;
-    margin-right:-325px;
-    width:325px;
-    display:flex;
-    justify-content: space-between; /* 设置项目之间的间隔为相等的间隔 */
- }
-  
-  buttonfork {
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
-    border-radius: 2px;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
-    margin-left: 5px;
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height:14px;
-    font-size:14px;
-    color:#333;
-    font-weight: bold;
-    display:inline-block;
-    text-align:center;
-
-    &:hover {
-      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #ffeca0;
-    }
-  }
-  
-  fork{
-    margin-right:-325px;
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height:14px;
-    font-size:14px;
-    background-color: #FFE788;
-  }
 
   .fork0 {
     position:fixed;
@@ -361,6 +321,45 @@ header {
     display: block;
     */
     background: url(../images/octocat-logo.svg);
+  }
+  .button-container {
+    position:fixed;
+    left:50%;
+    margin-left:-325px;
+    width:325px;
+    display:inline-block;
+    justify-content: space-between; /* 设置项目之间的间隔为相等的间隔 */
+ }
+  
+  buttonfork {
+    border: 1px solid #dba500;
+    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+    background-color: #FFE788;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    color:#333;
+    font-weight: bold;
+    display:inline-block;
+    text-align:center;
+
+    &:hover {
+      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+      background-color: #ffeca0;
+    }
+  }
+  
+  .fork{
+    margin-right:-325px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    background-color: #FFE788;
   }
   
 }
