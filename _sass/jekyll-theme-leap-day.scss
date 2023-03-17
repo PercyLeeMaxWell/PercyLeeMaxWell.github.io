@@ -310,17 +310,20 @@ header {
       }
     }
   }
-  /*
+  
   #logo {
     position:absolute;
     height: 36px;
     width: 36px;
     right:7px;
     top:7px;
+    display: None;
+    /*
     display: block;
+    */
     background: url(../images/octocat-logo.svg);
   }
-  */
+  
 }
 
 section {
@@ -491,8 +494,9 @@ footer {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
-
+    /*
     p { display: none;}
+    */
   }
 
   #banner {
@@ -544,10 +548,12 @@ footer {
   /*
   #banner { display: none;}
   */
-  #banner { display:  inline-block;}
+  #banner { display:  block;}
+  /*
   header ul {
     display:none;
   }
+  */
 }
 
 @media print {
