@@ -238,6 +238,7 @@ header {
     color:#333;
     font-weight: bold;
     display:inline-block;
+    justify-content: space-between; /* 设置项目之间的间隔为相等的间隔 */
     text-align:center;
 
     &:hover {
