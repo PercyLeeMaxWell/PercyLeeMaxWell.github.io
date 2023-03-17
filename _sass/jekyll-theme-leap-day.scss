@@ -411,8 +411,22 @@ footer {
     margin:0;
   }
 
+  /*
   nav{
     display: none;
+  }
+  */
+  nav {
+    display: block;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+  nav li {
+    margin: 0;
+    border-bottom: 1px solid #ccc;
   }
 
   header, section, footer {
