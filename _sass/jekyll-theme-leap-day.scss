@@ -451,6 +451,8 @@ footer {
 
 @media print, screen and (max-width: 1000px) {
   nav {
+    z-index: 100;
+    position:fixed;
     left:50%;
     margin-left:-325px;
     display: block;
