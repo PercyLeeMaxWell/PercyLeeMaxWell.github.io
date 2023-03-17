@@ -453,7 +453,7 @@ footer {
 @media print, screen and (max-width: 1000px) {
   nav {
     z-index: 100;
-    position:absolute;
+    position:relative;
     left: 50%;
     // margin-left:-325px;
     display: block;
@@ -479,7 +479,7 @@ footer {
     font-size: 16px;
   }
   section {
-    margin-top: 300px; // Add a top margin greater than the height of the navigation + some additional space
+    margin-top: 400px; // Add a top margin greater than the height of the navigation + some additional space
   }
   
   }
