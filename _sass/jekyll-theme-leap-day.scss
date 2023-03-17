@@ -322,6 +322,7 @@ header {
     */
     background: url(../images/octocat-logo.svg);
   }
+  //20230307，接下来的一段代码是为了让button能够水平相同间隔排列
   .button-container {
     position:fixed;
     left:50%;
@@ -444,3 +445,27 @@ footer {
   text-align: right;
   line-height: 16px;
 }
+
+
+//202230307,还需要调整让移动设备端可以显示nav
+/*
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:20px 20px;
+    margin: 0;
+
+    h1 {
+      font-size: 32px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+    p { display: none;}
+  }
+  */
