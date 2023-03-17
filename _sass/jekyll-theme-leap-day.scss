@@ -448,24 +448,21 @@ footer {
 
 
 //202230307,还需要调整让移动设备端可以显示nav
-/*
+
 @media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
+  nav {
+    left:50%;
+    margin-left:-325px;
+    display: block;
+    width: 100%;
   }
-
-  header {
-    padding:20px 20px;
+  nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+  nav li {
     margin: 0;
-
-    h1 {
-      font-size: 32px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      -o-text-overflow: ellipsis;
-      -ms-text-overflow: ellipsis;
-    }
-    p { display: none;}
+    border-bottom: 1px solid #ccc;
   }
-  */
+  }
+
