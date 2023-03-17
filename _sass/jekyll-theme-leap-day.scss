@@ -450,7 +450,7 @@ footer {
 
 //202230307,还需要调整让移动设备端可以显示nav
 
-@media print, screen and (max-width: 1000px) {
+@media print, screen and (max-width: 750px) {
   nav {
     //z-index: 100;
     position:relative;
