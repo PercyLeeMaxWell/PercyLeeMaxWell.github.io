@@ -238,7 +238,6 @@ header {
     color:#333;
     font-weight: bold;
     display:inline-block;
-    justify-content: space-between; /* 设置项目之间的间隔为相等的间隔 */
     text-align:center;
 
     &:hover {
@@ -251,7 +250,12 @@ header {
     position:fixed;
     right:50%;
     margin-right:-325px;
-    width:650px;
+    width:325px;
+    display:flex;
+    justify-content: space-between; /* 设置项目之间的间隔为相等的间隔 */
+ }
+  
+  buttonfork {
     border: 1px solid #dba500;
     background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
     border-radius: 2px;
@@ -271,7 +275,7 @@ header {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
       background-color: #ffeca0;
     }
- }
+  }
   
   fork{
     margin-right:-325px;
