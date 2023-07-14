@@ -32,7 +32,7 @@ Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Im
 * Earth system observation  
 
 # Skills
-Python; Matlab; R; Fortran; data assimilation methods; statistical analysis methods; machine learning methods
+Python; Matlab; R; Fortran; Shell; and Google Earth Engine; data assimilation methods; statistical analysis methods; machine learning methods; Hydrus; MODFLOW; soil water balance model; HBV; W3RA, Multiscale Parameter Regionalization (MPR)
 # Prospects
 To discover scale-consistent hydrological theories via cross-scale soil moisture and groundwater data and models;  
 To simulate and predict cross-scale soil moisture and groundwater more efficiently and effectively;
