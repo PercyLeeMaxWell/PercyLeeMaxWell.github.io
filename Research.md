@@ -2,7 +2,7 @@
 layout: default
 ---
 CV
-# Researches
+# Projects
 * Modeling of soil water cross different scales: Taking North China Plain as an example (National Natural Science Foundation of China); Participation; 2023-2026.
 * National Construction High-level University Postgraduate Program; Host; 2022.10.01-2023.10.15 (Expected).
 * Thermal-mass coupling numerical simulation of in-situ heat treatment temperature-contaminant spatiotemporal distribution (National Key Research & Development Program of China); Participation; 2020-2023.
