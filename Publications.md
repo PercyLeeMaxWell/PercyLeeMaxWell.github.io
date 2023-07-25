@@ -5,5 +5,6 @@
 4. **Li, P.**, Zha, Y., Shi, L., & Zhong, H. (2021). Identification of the terrestrial water storage change features in the North China Plain via independent component analysis. ***Journal of Hydrology: Regional Studies***, 38, 100955. https://doi.org/10.1016/j.ejrh.2021.100955  
 5. **Li, P.**, Zha, Y., Shi, L., & Zhong, H. (2022). Assessing the Global Relationships Between Teleconnection Factors and Terrestrial Water Storage Components. ***Water Resources Management***, 36, 119–133. https://doi.org/10.1007/s11269-021-03015-x  
 6. Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Improving understanding of spatiotemporal water storage changes over China based on multiple datasets. ***Journal of Hydrology***, 612, 128098. https://doi.org/10.1016/j.jhydrol.2022.128098 
+  
 # Poster presentation
 * **Li, P.**, Zha, Y., Tso, C. H. M., Shi, L., Yu, D., Zhang, Y., Zeng, W., Peng, J. (2023) Bias detection of ISMN soil moisture measurements through soil water balance model and data assimilation. EGU General Assembly 2023, Vienna, Austria.
