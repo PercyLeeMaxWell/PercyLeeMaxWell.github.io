@@ -325,7 +325,7 @@ header {
   //20230307，接下来的一段代码是为了让button能够水平相同间隔排列
   .button-container {
     position:fixed;
-    left:50%;
+    left:100%;
     margin-left:-325px;
     width:325px;
     display:inline-block;
