@@ -25,7 +25,10 @@ My studies focus on the analysis of spatiotemporal characteristics of soil water
 * Earth system observation  
 
 # Skills
-Python; Matlab; R; Fortran; Shell; and Google Earth Engine; data assimilation methods; statistical analysis methods; machine learning methods; Hydrus; MODFLOW; soil water balance model; HBV; W3RA; Multiscale Parameter Regionalization (MPR)
+**Tools**: Python; Matlab; R; Fortran; Shell; and Google Earth Engine; GIS  
+**Mathematical Statistical Methods**: data assimilation methods; statistical analysis methods; machine learning methods  
+**Physically-based Methods**: Hydrus; MODFLOW; soil water balance model; HBV; W3RA; Multiscale Parameter Regionalization (MPR)  
+
 # Prospects
 * To discover scale-consistent hydrological theories via cross-scale soil moisture and groundwater data and models;  
 * To simulate and predict cross-scale soil moisture and groundwater more efficiently and effectively;
