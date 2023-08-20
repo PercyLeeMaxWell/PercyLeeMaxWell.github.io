@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+  
+  - title: "Resume"
+    url: /cv/
+  
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Data+Model"
+    url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/    
+    
+  - title: "Gallery"
+    url: /portfolio/
+    
+  - title: "Contact"
+    url: /markdown/
