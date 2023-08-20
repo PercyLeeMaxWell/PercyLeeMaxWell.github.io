@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, my name is Peijun Li
 =====
-I'm a research scientist in IGSNRR (CAS), remote sensing specialist, hydrologist, and life explorer and learner~
+I'm a Ph.D. candidate in hydrological science
 
 My research touches on interdisciplinary water science including the analysis of spatiotemporal characteristics of soil water and groundwater data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
 
