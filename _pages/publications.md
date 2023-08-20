@@ -7,7 +7,7 @@ author_profile: true
 
 Journal articles
 ======
-(For a full list, please refer to my [Researchgate](https://www.researchgate.net/profile/Peijun-Li-3))
+(For a full list, please refer to my <a href="https://www.researchgate.net/profile/Peijun-Li-3" target="_blank">Researchgate</a>
 
 1. **Li, P.**, Zha, Y., Zuo, B., & Zhang, Y. (2023). A family of soil water retention models based on sigmoid functions. ***Water Resources Research***, 59, e2022WR033160. [https://doi.org/10.1029/2022WR033160](https://doi.org/10.1029/2022WR033160).
 
