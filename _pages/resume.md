@@ -10,81 +10,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Civil Engineering, Texas A&M University, 2018
+* Visiting student at the Helmholtz Centre for Environmental Research – UFZ, Germany (2022.10-2023.10).
+* MSc & Ph.D. candidate, Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-present).
 
-  Dissertation: [The role of reservoir flow regulation and evaporation in water resources management](https://oaktrust.library.tamu.edu/handle/1969.1/174431)
-  
-  Committee: Huilin Gao (chair), Francisco Olivera, Ralph Wurbs, John Nielsen-Gammon
-  
-* M.S. in Civil Engineering, Texas A&M University, 2014
+  Dissertation: Simulation, characteristic, and utilization of multi-scale spatiotemporal data of soil moisture and groundwater
 
-* B.S. in Environmental Science, Nankai University, China, 2012
-
-Work experience
-======
-* 2022-present:	Associate Researcher
-
-  [Key Laboratory of Water Cycle and Related Land Surface Processes](http://water.igsnrr.cas.cn/)
-  
-  [Institute of Geographic Sciences and Natural Resources Research, CAS](http://www.igsnrr.ac.cn/)
-
-* 2020-2022: Postdoctoral Research Fellow
-
-  [Michalak Lab](https://bse.carnegiescience.edu/dr-anna-michalak-0), Department of Global Ecology
-  
-  Carnegie Institution for Science, Stanford, CA
-
-* 2018-2020: Postdoctoral Researcher
-
-  [Gao Hydrology Research Group](https://ceprofs.civil.tamu.edu/hgao/), Department of Civil and Environmental Engineering
-  
-  Texas A&M University, College Station, TX
-
-* 2015, 2016: Professional Internship
-
-  [Dr. Kao's Lab](https://www.ornl.gov/staff-profile/shih-chieh-kao), Environmental Science Division
-  
-  Oak Ridge National Laboratory, Oak Ridge, TN
+* B.S. Hydrology and Water Resources Engineering, in School of environmental studies, China University of Geosciences, China, 2014.09-2018.06
   
 Academic Awards
 ======
-2017    National Aeronautics and Space Administration (NASA) Earth and Space Science Fellowship (NESSF)
+2021    Academic Innovation Scholarship for Postgraduate Students of Wuhan University
 
-2016    U.S. Geological Survey (USGS) Graduate Research Program scholarship
+2021    Academic Scholarship for Postgraduate Students of Wuhan University
 
-2015    Outstanding Student Paper Award in 2015 American Geophysical Union Fall Meeting (hydrology section)
+2020    Guanghua scholarship from Wuhan University
 
-2015    Mills Scholarship from Texas Water Resources Institute
-
-2013    Research Assistantship in Texas A&M University
-
-2011    First Prize of Excellent Undergraduate Scholarship in Nankai University 
-
-2007    First Prize in National High School Mathematics Competition
-
-Teaching experience
-======
-2020:      Guest lecturer — TAMU CVEN 602, Remote Sensing in Hydrology, Texas A&M University
-	   
-2018-2019: Guest lecturer — TAMU CVEN 627, Engineering Surface Water Hydrology, Texas A&M University
-	   
-2017-2019: Teaching Assistant — TAMU CVEN 627, Engineering Surface Water Hydrology, Texas A&M University
-
+2015,2016,2017    •	National Encouragement Scholarship of China University of Geosciences
 
 Professional Skills
 ======
-Hydrological modeling: DHSVM, VIC, HEC-HMS, SWAT
+Hydrological modeling: Hydrus, MODFLOW, soil water balance model, HBV, W3RA, Multiscale Parameter Regionalization (MPR)
 
-Geo-computing: Google Earth Engine, ArcGIS, GDAL
+mathematical statistical methods: STL, PCA, ICA, ANN, RF, LSTM, CNN
 
-Machine learning: TensorFlow, Scikit-learn
+Geo-computing: Google Earth Engine, ArcGIS, QGIS, GDAL
 
-Programming: Linux shell, Python, C, JavaScript
-  
-Professional Affiliations
-======
-American Geophysical Union (since 2014)
+Machine learning: Pytorch, TensorFlow, Scikit-learn
 
-American Society of Civil Engineers (since 2015)
+Programming: Python, MATLAB, Fortran, R, Linux shell, JavaScript
+
 
   

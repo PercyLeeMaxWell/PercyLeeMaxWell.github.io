@@ -9,8 +9,5 @@ redirect_from:
 
 CONTACT
 ======
-Office: No. 11A Datun Road, Chaoyang District, Beijing, China
-
-Phone: (+1) 669-500-8629
-
-Email: gzhao@igsnrr.ac.cn; gzhao@carnegiescience.edu
+* Twitter: <a href="https://twitter.com/PeijunLi5" target="_blank">@PeijunLi5</a>  
+* Email: <a href="mailto:peijunlicn@gmail.com">peijunlicn@gmail.com</a>  

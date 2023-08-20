@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Data+Model"
+  - title: "Projec"
     url: /year-archive/
 
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "Gallery"
-    url: /portfolio/
+#  - title: "Talks"
+#    url: /talks/    
+#    
+#  - title: "Gallery"
+#    url: /portfolio/
     
   - title: "Contact"
     url: /markdown/
