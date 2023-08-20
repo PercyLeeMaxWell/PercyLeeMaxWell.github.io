@@ -5,7 +5,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li AquaLab"
+title                    : "Li HydroLab"
 title_separator          : "-"
 name                     : &name "Peijun Li"
 description              : &description "personal description"
