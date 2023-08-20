@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-CONTACT
+Contacts
 ======
 * Twitter: <a href="https://twitter.com/PeijunLi5" target="_blank">@PeijunLi5</a>  
 * Email: <a href="mailto:peijunlicn@gmail.com">peijunlicn@gmail.com</a>  
