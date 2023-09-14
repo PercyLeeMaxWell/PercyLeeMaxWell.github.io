@@ -23,6 +23,7 @@ Prospects
 
 News
 ======
+A new article "**Li, P.**, Zha, Y., Tso, C. H. M. (2023). Reconstructing GRACE-derived terrestrial water storage anomalies with in-situ groundwater level measurements and meteorological forcing data" is accepted in **Journal of Hydrology: Regional Studies**
 
 
 
