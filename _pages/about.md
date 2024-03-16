@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, my name is Peijun Li
 =====
-I'm a Ph.D. candidate in hydrological science
+I'm a Ph.D. in hydrological science
 
 My research touches on interdisciplinary water science including the analysis of spatiotemporal characteristics of soil water and groundwater data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
 
@@ -23,7 +23,7 @@ Prospects
 
 News
 ======
-A new article "**Li, P.**, Zha, Y., Tso, C. H. M. (2023). Reconstructing GRACE-derived terrestrial water storage anomalies with in-situ groundwater level measurements and meteorological forcing data" is accepted in **Journal of Hydrology: Regional Studies**
+I am now working in Penn State as post-doctoral scholar.
 
 
 
