@@ -10,10 +10,11 @@ redirect_from:
 
 Education
 ======
-* Visiting student at the Helmholtz Centre for Environmental Research – UFZ, Germany (2022.10-2023.10).
-* MSc & Ph.D. candidate, Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-present).
+* MSc & Ph.D. candidate, Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-2023.12).
 
-  Dissertation: Simulation, characteristic, and utilization of multi-scale spatiotemporal data of soil moisture and groundwater
+  Dissertation: Simulation, characteristic analysis, and utilization of multi-scale spatiotemporal data of soil water and groundwater
+
+* Visiting student at the Helmholtz Centre for Environmental Research – UFZ, Germany (2022.10-2023.10).
 
 * B.S. Hydrology and Water Resources Engineering, in School of environmental studies, China University of Geosciences, China, 2014.09-2018.06
   
