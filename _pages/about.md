@@ -25,5 +25,10 @@ News
 ======
 I am now working in Penn State as post-doctoral scholar.
 
+News about my studies:
+1. https://mp.weixin.qq.com/s/jXxyZ5P-nChbDrwHU1peZA
+2. https://mp.weixin.qq.com/s/PZ0KlyuQrYMiUTKRuT9IWQ
+3. https://mp.weixin.qq.com/s/8T8lLaC5S_DeYtXGgeeMrg
+
 
 
