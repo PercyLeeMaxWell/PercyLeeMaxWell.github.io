@@ -21,9 +21,8 @@ Education
 Academic Awards
 ======
 * 2024-present: Post-doctoral Scholar  
-[MHPI](https://sites.google.com/view/mhpi/team) Lab, Department of Civil and Environmental Engineering
-  
-  Penn State Univeristy, State College, PA
+[MHPI](https://sites.google.com/view/mhpi/team) Lab, Department of Civil and Environmental Engineering  
+Penn State Univeristy, State College, PA
 
   
 Academic Awards
