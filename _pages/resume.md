@@ -18,7 +18,7 @@ Education
 
 * B.S. Hydrology and Water Resources Engineering, in School of environmental studies, China University of Geosciences, China, 2014.09-2018.06
 
-Academic Awards
+Work experience
 ======
 * 2024-present: Post-doctoral Scholar  
 [MHPI](https://sites.google.com/view/mhpi/team) Lab, Department of Civil and Environmental Engineering  
