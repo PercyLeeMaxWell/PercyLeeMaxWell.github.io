@@ -11,7 +11,7 @@ Hi, my name is Peijun Li
 =====
 I'm a Ph.D. in hydrological science, now working in Penn State as post-doctoral scholar
 
-My research touches on interdisciplinary water science including the analysis of spatiotemporal characteristics of soil water and groundwater data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
+My research touches on interdisciplinary water science including the analysis of spatiotemporal characteristics of hydrological data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
 
 Prospects
 ======
