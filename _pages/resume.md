@@ -33,7 +33,7 @@ Academic Awards
 
 2020    Guanghua scholarship from Wuhan University
 
-2015,2016,2017    •	National Encouragement Scholarship of China University of Geosciences
+<!-- 2015,2016,2017    •	National Encouragement Scholarship of China University of Geosciences -->
 
 Professional Skills
 ======
