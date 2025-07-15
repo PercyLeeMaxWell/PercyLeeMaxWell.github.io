@@ -7,9 +7,9 @@ author_profile: true
 
 Journal articles
 ======
-(For a full list, please refer to my <a href="https://www.researchgate.net/profile/Peijun-Li-3" target="_blank">Researchgate</a>
+(For a full list, please refer to my <a href="https://scholar.google.com/citations?user=bIzYQukAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Peijun-Li-3" target="_blank">Researchgate</a>
 
-1. **Li P**, Zha Y, Zhang Y, et al. Deep learning integrating scale conversion and pedo‐transfer function to avoid potential errors in cross‐scale transfer[J]. Water Resources Research, 2024, 60(3): e2023WR035543. [https://doi.org/10.1029/2023WR035543](https://doi.org/10.1029/2023WR035543).
+1. **Li P**, Zha Y, Zhang Y, et al. Deep learning integrating scale conversion and pedo‐transfer function to avoid potential errors in cross‐scale transfer[J]. ***Water Resources Research***, 2024, 60(3): e2023WR035543. [https://doi.org/10.1029/2023WR035543](https://doi.org/10.1029/2023WR035543).
 
 1. **Li, P.**, Zha, Y., Zuo, B., & Zhang, Y. (2023). A family of soil water retention models based on sigmoid functions. ***Water Resources Research***, 59, e2022WR033160. [https://doi.org/10.1029/2022WR033160](https://doi.org/10.1029/2022WR033160).
 
