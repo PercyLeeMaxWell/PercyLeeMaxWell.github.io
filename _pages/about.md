@@ -11,13 +11,14 @@ Hi, my name is Peijun Li
 =====
 I'm a Ph.D. in hydrological science, now working in Penn State as post-doctoral scholar
 
-My research touches on interdisciplinary water science including the analysis of spatiotemporal characteristics of hydrological data. Data are derived from remote sensors, situ observation sites especially via some sensors, and secondary sources. The analytical methods used include statistical approaches and physically-based models.
+My research focuses on analyzing the spatiotemporal characteristics of hydrological data. The data sources include remote sensing, in-situ observation sites—particularly those equipped with specialized sensors—and secondary datasets. I employ a range of analytical methods, including statistical techniques, physically based models, and hybrid approaches that integrate both.
+
 
 Prospects
 ======
-1. Discover scale-consistent hydrological theories via multi-scale soil moisture and groundwater data and models;
-2. Simulate and predict multi-scale hydrological components more efficiently and effectively
-3. Investigate the effects/response of soil moisture and groundwater variation on/to climate change and human activities
+1. Develop scale-consistent hydrological theories by integrating multi-scale hydrological data and models; 
+2. Improve the efficiency and accuracy of simulating and predicting hydrological components across scales; 
+3. Investigate the impacts of climate change and human activities on hydrological variability, as well as the hydrological system’s responses to these external drivers.
 
 
 
@@ -32,8 +33,9 @@ News about my studies:
 
 <!-- Reviews
 ======
-Journal of Hydrology, 2.  
-Water Resources Research, 1.  
+Journal of Hydrology, 7.
+Hydrology and Earth System Sciences, 1.
+Water Resources Research, 3.
 Communications Earth & Environment, 1. -->
 
 
