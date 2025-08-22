@@ -11,7 +11,7 @@ Hi, my name is Peijun Li
 =====
 I'm a Ph.D. in hydrological science, now working in Penn State as post-doctoral scholar
 
-My research focuses on analyzing the spatiotemporal characteristics of hydrological data. The data sources include remote sensing, in-situ observation sites—particularly those equipped with specialized sensors—and secondary datasets. I employ a range of analytical methods, including statistical techniques, physically based models, and hybrid approaches that integrate both.
+My research focuses on modeling and analyzing hydrological processes and their spatiotemporal variability. I employ a range of approaches, including statistical techniques, physically-based models, and hybrid methods that integrate both. These approaches are applied to diverse data sources, such as remote sensing products, in-situ observation networks—particularly sites equipped with specialized sensors—and secondary datasets.
 
 
 Prospects
