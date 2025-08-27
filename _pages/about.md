@@ -36,6 +36,7 @@ News about my studies:
 Journal of Hydrology, 7.
 Hydrology and Earth System Sciences, 1.
 Water Resources Research, 3.
-Communications Earth & Environment, 1. -->
+Communications Earth & Environment, 1. 
+Journal of Hydrologic Engineering, 1.-->
 
 
