@@ -37,15 +37,17 @@ Academic Awards
 
 Professional Skills
 ======
-Hydrological modeling: Hydrus, MODFLOW, soil water balance model, HBV, W3RA, Multiscale Parameter Regionalization (MPR)
+Hydrological modeling: Hydrus, MODFLOW, soil water balance model, Hydrologiska Byråns Vattenbalansavdelning model (HBV), W3RA, Multiscale Parameter Regionalization (MPR), [RAPID](http://rapid-hub.org/), [Differentiable hydrological modeling](https://mhpi.github.io/) (δMC, [δHBV](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-483/), surrogate-based models, physics-informed ML)
 
-mathematical statistical methods: STL, PCA, ICA, ANN, RF, LSTM, CNN
+Mathematical statistical methods: STL, Principal component analysis (PCA), ICA, ANN, RF, LSTM, CNN
 
 Geo-computing: Google Earth Engine, ArcGIS, QGIS, GDAL
 
 Machine learning: Pytorch, TensorFlow, Scikit-learn
 
 Programming: Python, MATLAB, Fortran, R, Linux shell, JavaScript
+
+Hydrometeorological data processing: SMAP, GRACE, SWOT
 
 
   
