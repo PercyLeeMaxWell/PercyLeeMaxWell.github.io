@@ -9,16 +9,18 @@ redirect_from:
 ---
 Hi, my name is Peijun Li
 =====
-I'm a Ph.D. in hydrological science, now working in Penn State as post-doctoral scholar
+I earned my Ph.D. in Hydrological Sciences and am currently a Postdoctoral Scholar at Penn State, where I conduct research with the [MHPI](https://sites.google.com/view/mhpi/team) team.
 
 My research focuses on modeling and analyzing hydrological processes and their spatiotemporal variability. I employ a range of approaches, including statistical techniques, physically-based models, and hybrid methods that integrate both. These approaches are applied to diverse data sources, such as remote sensing products, in-situ observation networks—particularly sites equipped with specialized sensors—and secondary datasets.
+
+Recently, I have been working on improving hydrological modeling using SWOT data and incorporating human activities and reservoir operations into models.
 
 
 Prospects
 ======
 1. Develop scale-consistent hydrological theories by integrating multi-scale hydrological data and models; 
 2. Improve the efficiency and accuracy of simulating and predicting hydrological components across scales; 
-3. Investigate the impacts of climate change and human activities on hydrological variability, as well as the hydrological system’s responses to these external drivers.
+3. Investigate the impacts of environmental change and human activities on hydrological variability, as well as the hydrological system’s responses to these external drivers.
 
 
 
