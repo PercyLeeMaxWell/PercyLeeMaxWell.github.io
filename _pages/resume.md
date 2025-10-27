@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* MSc & Ph.D. candidate, Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-2023.12).
+* MSc & Ph.D. Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-2023.12).
 
   Dissertation: Simulation, characteristic analysis, and utilization of multi-scale spatiotemporal data of soil water and groundwater
 

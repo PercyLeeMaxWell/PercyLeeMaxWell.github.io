@@ -18,9 +18,11 @@ Recently, I have been working on improving hydrological modeling using SWOT data
 
 Prospects
 ======
-1. Develop scale-consistent hydrological theories by integrating multi-scale hydrological data and models; 
-2. Improve the efficiency and accuracy of simulating and predicting hydrological components across scales; 
-3. Investigate the impacts of environmental change and human activities on hydrological variability, as well as the hydrological system’s responses to these external drivers.
+1. Multi-scale spatio-temporal analysis and simulation of hydrological processes
+2. Data assimilation and integration of multi-source hydrometeorological data
+3. Synergistic integration of data-driven and physically-based hydrological models
+4. Development of hydrological models incorporating anthropogenic influence
+
 
 
 
