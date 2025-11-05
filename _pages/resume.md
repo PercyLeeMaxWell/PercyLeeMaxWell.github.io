@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* MSc & Ph.D. Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-2023.12).
+* Ph.D. Water Resources and Hydropower Engineering, in School of Water Resources and Hydropower Engineering, Wuhan University, China (2018.09-2023.12).
 
   Dissertation: Simulation, characteristic analysis, and utilization of multi-scale spatiotemporal data of soil water and groundwater
 
@@ -32,8 +32,6 @@ Academic Awards
 2021    Academic Scholarship for Postgraduate Students of Wuhan University
 
 2020    Guanghua scholarship from Wuhan University
-
-<!-- 2015,2016,2017    •	National Encouragement Scholarship of China University of Geosciences -->
 
 Professional Skills
 ======
