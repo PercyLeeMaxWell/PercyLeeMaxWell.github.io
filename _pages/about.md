@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Peijun Li
+Hi, I'm Peijun Li
 =====
 I earned my Ph.D. in Hydrological Sciences and am currently a Postdoctoral Scholar at Penn State, where I conduct research with the [MHPI](https://sites.google.com/view/mhpi/team) team.
 
@@ -30,10 +30,13 @@ News
 ======
 
 News about my studies:
-1. https://mp.weixin.qq.com/s/jXxyZ5P-nChbDrwHU1peZA
-2. https://mp.weixin.qq.com/s/PZ0KlyuQrYMiUTKRuT9IWQ
-3. https://mp.weixin.qq.com/s/8T8lLaC5S_DeYtXGgeeMrg
+1. [Chinese report](https://mp.weixin.qq.com/s/PZ0KlyuQrYMiUTKRuT9IWQ) from State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan, China
 
+
+
+<!-- 1. https://mp.weixin.qq.com/s/jXxyZ5P-nChbDrwHU1peZA
+2. https://mp.weixin.qq.com/s/PZ0KlyuQrYMiUTKRuT9IWQ
+3. https://mp.weixin.qq.com/s/8T8lLaC5S_DeYtXGgeeMrg -->
 
 <!-- Reviews
 ======
