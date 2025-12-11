@@ -14,6 +14,7 @@ Journal articles
 >This study explores how combining different model types improves streamflow predictions, especially in data-sparse scenarios. By integrating two highly accurate models with distinct mechanisms and leveraging multiple meteorological datasets, we highlight their unique strengths and set new accuracy benchmarks across spatiotemporal conditions. Our findings enhance the understanding of how diverse models and multi-source data can be effectively used to improve hydrological predictions.
 
 1. **Li P**, Zha Y, Zhang Y, et al. (2024). Deep learning integrating scale conversion and pedo‐transfer function to avoid potential errors in cross‐scale transfer[J]. ***Water Resources Research***, 60(3): e2023WR035543. [https://doi.org/10.1029/2023WR035543](https://doi.org/10.1029/2023WR035543).
+>
 
 1. **Li, P.**, Zha, Y., Zuo, B., & Zhang, Y. (2023). A family of soil water retention models based on sigmoid functions. ***Water Resources Research***, 59, e2022WR033160. [https://doi.org/10.1029/2022WR033160](https://doi.org/10.1029/2022WR033160).
 
@@ -31,4 +32,5 @@ Journal articles
 
 Conferences
 ======
+(For a full list, please refer to my <a href="https://scholar.google.com/citations?user=bIzYQukAAAAJ&hl=en" target="_blank">Google Scholar</a>)
 * **Li, P.**, Zha, Y., Tso, C. H. M., Shi, L., Yu, D., Zhang, Y., Zeng, W., Peng, J. (2023) Bias detection of ISMN soil moisture measurements through soil water balance model and data assimilation. EGU General Assembly 2023, Vienna, Austria.

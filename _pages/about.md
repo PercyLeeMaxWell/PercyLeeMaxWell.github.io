@@ -26,7 +26,8 @@ Prospects
 
 Quick Look
 ======
-
+[Publicatioins](https://percyleemaxwell.github.io/publications/)
+[Contacts](https://percyleemaxwell.github.io/markdown/)
 
 
 
