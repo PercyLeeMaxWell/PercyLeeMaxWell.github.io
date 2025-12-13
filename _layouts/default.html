@@ -38,17 +38,15 @@ layout: compress
         const toggle = document.getElementById('theme-toggle');
         if (!toggle) return;
 
-        function applyTheme(mode) {
-          document.documentElement.classList.toggle('dark', mode === 'dark');
-        }
-
-        // 页面加载时初始化
-        applyTheme(toggle.mode);
-
-        // 用户切换时
+        // 用户点击切换时
         toggle.addEventListener('colorschemechange', () => {
-          applyTheme(toggle.mode);
+          document.documentElement.classList.toggle('dark', toggle.mode === 'dark');
         });
+
+        // 页面加载后，延迟获取初始模式
+        setTimeout(() => {
+          document.documentElement.classList.toggle('dark', toggle.mode === 'dark');
+        }, 50);
       });
     </script>
 
