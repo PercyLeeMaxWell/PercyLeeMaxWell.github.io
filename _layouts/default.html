@@ -16,22 +16,6 @@ layout: compress
     </script>
   </head>
 
-  <script>
-    const toggle = document.getElementById('theme-toggle');
-
-    function applyTheme(mode) {
-      document.documentElement.classList.toggle('dark', mode === 'dark');
-    }
-
-    // 页面加载时初始化
-    applyTheme(toggle.mode);
-
-    // 用户切换时
-    toggle.addEventListener('colorschemechange', () => {
-      applyTheme(toggle.mode);
-    });
-  </script>
-
   <body>
 
     {% include browser-upgrade.html %}
@@ -47,6 +31,26 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <!-- Dark mode toggle JS -->
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const toggle = document.getElementById('theme-toggle');
+        if (!toggle) return;
+
+        function applyTheme(mode) {
+          document.documentElement.classList.toggle('dark', mode === 'dark');
+        }
+
+        // 页面加载时初始化
+        applyTheme(toggle.mode);
+
+        // 用户切换时
+        toggle.addEventListener('colorschemechange', () => {
+          applyTheme(toggle.mode);
+        });
+      });
+    </script>
 
   </body>
 </html>
