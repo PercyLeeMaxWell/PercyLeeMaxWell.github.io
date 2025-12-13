@@ -16,6 +16,15 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+
+        <!-- Dark mode toggle 按钮 -->
+        <dark-mode-toggle
+          appearance="toggle"
+          dark="🌙"
+          light="☀️"
+          id="theme-toggle">
+        </dark-mode-toggle>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

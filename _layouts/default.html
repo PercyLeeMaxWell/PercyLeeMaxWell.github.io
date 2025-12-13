@@ -9,7 +9,28 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Dark mode toggle component -->
+    <script type="module"
+      src="https://unpkg.com/dark-mode-toggle">
+    </script>
   </head>
+
+  <script>
+    const toggle = document.getElementById('theme-toggle');
+
+    function applyTheme(mode) {
+      document.documentElement.classList.toggle('dark', mode === 'dark');
+    }
+
+    // 页面加载时初始化
+    applyTheme(toggle.mode);
+
+    // 用户切换时
+    toggle.addEventListener('colorschemechange', () => {
+      applyTheme(toggle.mode);
+    });
+  </script>
 
   <body>
 
