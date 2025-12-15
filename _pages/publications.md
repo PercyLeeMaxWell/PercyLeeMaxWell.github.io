@@ -10,7 +10,6 @@ Journal articles
 (For a full list, please refer to my <a href="https://scholar.google.com/citations?user=bIzYQukAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Peijun-Li-3" target="_blank">Researchgate</a>
 
 1. **Li, P.**, Song, Y., Pan, M., Lawson, K., & Shen, C. (2025). Ensembling differentiable process-based and data-driven models with diverse meteorological forcing datasets to advance streamflow simulation. **Hydrology and Earth System Sciences**, 29(23), 6829–6861. [https://doi.org/10.5194/hess-29-6829-2025](https://doi.org/10.5194/hess-29-6829-2025).
-
 >This study explores how combining different model types improves streamflow predictions, especially in data-sparse scenarios. By integrating two highly accurate models with distinct mechanisms and leveraging multiple meteorological datasets, we highlight their unique strengths and set new accuracy benchmarks across spatiotemporal conditions. Our findings enhance the understanding of how diverse models and multi-source data can be effectively used to improve hydrological predictions.
 
 1. **Li P**, Zha Y, Zhang Y, et al. (2024). Deep learning integrating scale conversion and pedo‐transfer function to avoid potential errors in cross‐scale transfer[J]. ***Water Resources Research***, 60(3): e2023WR035543. [https://doi.org/10.1029/2023WR035543](https://doi.org/10.1029/2023WR035543).
