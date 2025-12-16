@@ -15,7 +15,7 @@ Journal articles
 
 1. **Li P**, Zha Y, Zhang Y, et al. (2024). Deep learning integrating scale conversion and pedo‐transfer function to avoid potential errors in cross‐scale transfer[J]. ***Water Resources Research***, 60(3): e2023WR035543. [https://doi.org/10.1029/2023WR035543](https://doi.org/10.1029/2023WR035543).
 >This study tackles a common challenge in hydrological modeling: errors that arise when transferring model parameters across spatial scales (e.g., from local to regional scales). We propose a deep learning–based approach that integrates scale conversion and pedo-transfer functions (PTFs) directly within a single model. Traditional methods separate these steps and often introduce errors due to mismatched scales. The proposed convolutional neural network (CNN) learns the mapping from different scale static soil/landscape attributes to specific-scale hydrological parameters of the following physically-based model, automatically handling the scale discrepancy in **[a differentiable framework](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8VJDPT)**. This integrated strategy reduces errors in cross-scale parameter transfer and improves the quality and robustness of soil moisture predictions, as shown in both synthetic and real-world tests.  
-![alt text](image-5.png){:.width-50}
+<!-- ![alt text](image-5.png){:.width-50} -->
 <!-- ![alt text](image-5.png)  
 ![alt text](image-6.png) -->
 <!-- <img src="image-5.png" alt="alt text" width="400">
@@ -33,7 +33,7 @@ Journal articles
 
 4. **Li, P.**, Zha, Y., & Tso, C.-H. M. (2023). Reconstructing GRACE-derived terrestrial water storage anomalies with in-situ groundwater level measurements and meteorological forcing data. ***Journal of Hydrology: Regional Studies***, 50, 101528. [https://doi.org/10.1016/j.ejrh.2023.101528](https://doi.org/10.1016/j.ejrh.2023.101528)
 >In this study, we reconstructed satellite-based (GRACE) terrestrial water storage changes by combining groundwater level observations and meteorological information. This **[approach](https://github.com/PercyLeeMaxWell/ReconstructedTWS)** is designed for regions where human activities strongly affect groundwater and make model estimates unreliable. By addressing scale mismatch and separating long-term trends from short-term variations, we showed that groundwater data can significantly improve reconstructed water storage, especially for long-term trends, and better reveal human impacts on water resources.  
-<img src="image-9.png" alt="alt text" width="400">
+<!-- <img src="image-9.png" alt="alt text" width="400"> -->
 
 5. **Li, P.**, Zha, Y., Shi, L., & Zhong, H. (2021). Identification of the terrestrial water storage change features in the North China Plain via independent component analysis. ***Journal of Hydrology: Regional Studies***, 38, 100955. [https://doi.org/10.1016/j.ejrh.2021.100955](https://doi.org/10.1016/j.ejrh.2021.100955)
 >In this study, we used satellite observations and statistical techniques to identify different components of water storage change in the North China Plain, highly affected by human activities and groundwater withdrawal. By applying independent component analysis to GRACE data, we separated surface water and shallow and deep groundwater signals. This allowed us to better understand how natural variability and human activities affect water storage differently over time, revealing clear shifts in groundwater use linked to human interventions.
