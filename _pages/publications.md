@@ -18,8 +18,8 @@ Journal articles
 <!-- ![alt text](image-5.png){:.width-50} -->
 <!-- ![alt text](image-5.png)  
 ![alt text](image-6.png) -->
-<!-- <img src="image-5.png" alt="alt text" width="400">
-<img src="image-6.png" alt="alt text" width="400"> -->
+<img src="./image-5.png" alt="alt text" width="400">
+<img src="./image-6.png" alt="alt text" width="400">
 
 1. **Li, P.**, Zha, Y., Zuo, B., & Zhang, Y. (2023). A family of soil water retention models based on sigmoid functions. ***Water Resources Research***, 59, e2022WR033160. [https://doi.org/10.1029/2022WR033160](https://doi.org/10.1029/2022WR033160).
 >In this study, we developed a new family of soil water retention models—mathematical formulas that describe how water is held in soil at different moisture levels. Soil water retention curves are fundamental for understanding water movement, plant water availability, and soil-water interactions in hydrology and agriculture. Traditionally, existing equations sometimes struggle to fit data well across the full range of soil moisture, especially near very dry or very wet conditions. We proposed **[a flexible set of models based on sigmoid functions](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L0XVBG)** that can more accurately and smoothly represent soil water retention across the entire moisture range. These models improve on existing ones by offering better fit quality, fewer fitting issues, and a consistent mathematical structure that makes them easier to apply in hydrologic and environmental modeling. Our results show that this new family of models performs well across diverse soil types and can help improve predictions of soil water behavior in hydrologic simulations.
