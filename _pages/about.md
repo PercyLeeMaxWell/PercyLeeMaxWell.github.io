@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 Hi, I'm Peijun Li
-=====
+===== 
+* Efficient parameter estimation and hybrid modeling
+* Differentiable parameter learning
+* Data and model bias identification and correction
+* Cross-scale, multi-source data integration and modeling
+* Coupled surface water–soil moisture–groundwater systems
+
+
 I earned my Ph.D. in Hydrological Sciences and am currently a Postdoctoral Scholar at Penn State, where I conduct research with the [MHPI](https://sites.google.com/view/mhpi/team) team.
 
 My research focuses on modeling and analyzing hydrological processes and their spatiotemporal variability. I employ a range of approaches, including statistical techniques, physically-based models, and hybrid methods that integrate both. These approaches are applied to diverse data sources, such as remote sensing products, in-situ observation networks—particularly sites equipped with specialized sensors—and secondary datasets.
