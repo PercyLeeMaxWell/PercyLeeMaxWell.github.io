@@ -9,6 +9,7 @@ redirect_from:
 ---
 Hi, I'm Peijun Li
 ===== 
+Previous Work:
 * Efficient parameter estimation and hybrid modeling
 * Differentiable parameter learning
 * Data and model bias identification and correction

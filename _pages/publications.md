@@ -42,10 +42,13 @@ Journal articles
 5. **Li, P.**, Zha, Y., Shi, L., & Zhong, H. (2021). Identification of the terrestrial water storage change features in the North China Plain via independent component analysis. ***Journal of Hydrology: Regional Studies***, 38, 100955. [https://doi.org/10.1016/j.ejrh.2021.100955](https://doi.org/10.1016/j.ejrh.2021.100955)
 >In this study, we used satellite observations and statistical techniques to identify different components of water storage change in the North China Plain, highly affected by human activities and groundwater withdrawal. By applying independent component analysis to GRACE data, we separated surface water and shallow and deep groundwater signals. This allowed us to better understand how natural variability and human activities affect water storage differently over time, revealing clear shifts in groundwater use linked to human interventions.
 <img src="/images/publications/ICA_NCP_GRACE.png" width="600">  
+<img src="/images/publications/ICA_NCP_GRACE_2.png" width="600">
 
 6. **Li, P.**, Zha, Y., Shi, L., & Zhong, H. (2022). Assessing the Global Relationships Between Teleconnection Factors and Terrestrial Water Storage Components. ***Water Resources Management***, 36, 119–133. [https://doi.org/10.1007/s11269-021-03015-x](https://doi.org/10.1007/s11269-021-03015-x)
 >In this study, we explored how large-scale climate patterns influence global water storage and its components. Using satellite data and hydrological models, we examined the links between major ocean-related climate oscillations and different parts of terrestrial water storage. We found that a few dominant climate drivers, especially ENSO and AMO, play a key role in controlling global water storage changes, with particularly strong impacts on groundwater. These results help clarify how climate variability shapes water resources worldwide.
 <img src="/images/publications/ICA_TC_GRACE.png" width="600">
+<img src="/images/publications/ICA_TC_GRACE_2.png" width="600">
+<img src="/images/publications/ICA_TC_GRACE_3.png" width="600">
 <!-- 7. Yin, W., Yang, S., Hu, L., Tian, S., Wang, X., Zhao, R., & **Li, P.** (2022). Improving understanding of spatiotemporal water storage changes over China based on multiple datasets. ***Journal of Hydrology***, 612, 128098. [https://doi.org/10.1016/j.jhydrol.2022.128098](https://doi.org/10.1016/j.jhydrol.2022.128098) -->
 
 Conferences
