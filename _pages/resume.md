@@ -33,19 +33,17 @@ Academic Awards
 
 2020    Guanghua scholarship from Wuhan University
 
-Professional Skills
-======
-Hydrological modeling: Hydrus, MODFLOW, soil water balance model, Hydrologiska Byråns Vattenbalansavdelning model (HBV), W3RA, Multiscale Parameter Regionalization (MPR), [RAPID](http://rapid-hub.org/)
+## Professional Skills
 
-Mathematical statistical methods: STL, Principal component analysis (PCA), ICA, ANN, RF, LSTM, CNN
+**Hydrological modeling:** HYDRUS, MODFLOW, soil water balance models, HBV, W3RA, Multiscale Parameter Regionalization (MPR), [RAPID](http://rapid-hub.org/)
 
-Geo-computing: Google Earth Engine, ArcGIS, QGIS, GDAL
+**Statistical and analytical methods:** STL decomposition, principal component analysis (PCA), independent component analysis (ICA), artificial neural networks (ANN), random forest (RF), long short-term memory networks (LSTM), convolutional neural networks (CNN)
 
-Machine learning: Pytorch, TensorFlow, Scikit-learn, [Differentiable programming](https://mhpi.github.io/) (PyTorch, hydrological models [δHBV](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-483/), surrogate-based models)
+**Geospatial computing:** Google Earth Engine, ArcGIS, QGIS, GDAL
 
-Programming: Python, MATLAB, Fortran, R, Linux shell, JavaScript
+**Machine learning and differentiable modeling:** PyTorch, TensorFlow, scikit-learn, [differentiable programming](https://mhpi.github.io/), differentiable hydrological models ([δHBV](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-483/)), surrogate-based modeling
 
-Hydrometeorological data processing: ISMN, CRNS, SMAP, SWOT, China Institute of Geo-Environmental Monitoring, USGS, GRACE, GLDAS, CAMELS, CPC, MODIS, NOAA, SoilGrids 
+**Programming:** Python, MATLAB, Fortran, R, Linux shell scripting, JavaScript
 
-
+**Hydrometeorological data and platforms:** ISMN, CRNS, SMAP, SWOT, China Institute of Geo-Environmental Monitoring, USGS, GRACE, GLDAS, CAMELS, CPC, MODIS, NOAA, SoilGrids
   

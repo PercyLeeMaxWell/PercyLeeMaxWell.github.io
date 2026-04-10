@@ -31,3 +31,11 @@ Conferences
 ======
 (For a full list, please refer to my <a href="https://scholar.google.com/citations?user=bIzYQukAAAAJ&hl=en" target="_blank">Google Scholar</a>)
 * **Li, P.**, Zha, Y., Tso, C. H. M., Shi, L., Yu, D., Zhang, Y., Zeng, W., Peng, J. (2023) Bias detection of ISMN soil moisture measurements through soil water balance model and data assimilation. EGU General Assembly 2023, Vienna, Austria.
+
+
+## Open-source Contributions
+
+- [ReconstructedTWS](https://github.com/PercyLeeMaxWell/ReconstructedTWS): An AI model for reconstructing GRACE-derived terrestrial water storage anomalies using in-situ groundwater levels and meteorological forcing
+- [Soil Water Retention Models Dataset](https://doi.org/10.7910/DVN/L0XVBG): A family of soil water retention models based on S-shaped functions
+- [Cross-scale Parameter Transfer Dataset](https://doi.org/10.7910/DVN/8VJDPT): AI-integrated scale conversion and pedo-transfer function estimation
+- [Streamflow Simulations with Differentiable HBV and LSTM Models](https://doi.org/10.5194/egusphere-2025-483): Streamflow simulation data using CAMELS datasets
