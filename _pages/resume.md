@@ -34,16 +34,9 @@ Academic Awards
 2020    Guanghua scholarship from Wuhan University
 
 ## Professional Skills
-
-**Hydrological modeling:** HYDRUS, MODFLOW, soil water balance models, HBV, W3RA, Multiscale Parameter Regionalization (MPR), [RAPID](http://rapid-hub.org/)
-
-**Statistical and analytical methods:** STL decomposition, principal component analysis (PCA), independent component analysis (ICA), artificial neural networks (ANN), random forest (RF), long short-term memory networks (LSTM), convolutional neural networks (CNN)
-
-**Geospatial computing:** Google Earth Engine, ArcGIS, QGIS, GDAL
-
-**Machine learning and differentiable modeling:** PyTorch, TensorFlow, scikit-learn, [differentiable programming](https://mhpi.github.io/), differentiable hydrological models ([δHBV](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-483/)), surrogate-based modeling
-
-**Programming:** Python, MATLAB, Fortran, R, Linux shell scripting, JavaScript
-
-**Hydrometeorological data and platforms:** ISMN, CRNS, SMAP, SWOT, China Institute of Geo-Environmental Monitoring, USGS, GRACE, GLDAS, CAMELS, CPC, MODIS, NOAA, SoilGrids
-  
+- Hydrological modeling: HYDRUS, MODFLOW, soil water balance models, HBV, W3RA, Multiscale Parameter Regionalization (MPR), [RAPID](http://rapid-hub.org/)
+- Statistical and analytical methods: STL decomposition, principal component analysis (PCA), independent component analysis (ICA), artificial neural networks (ANN), random forest (RF), long short-term memory networks (LSTM), convolutional neural networks (CNN)
+- Geospatial computing: Google Earth Engine, ArcGIS, QGIS, GDAL
+- Machine learning and differentiable modeling: PyTorch, TensorFlow, scikit-learn, [differentiable programming](https://mhpi.github.io/), differentiable hydrological models ([δHBV](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-483/)), surrogate-based modeling
+- Programming: Python, MATLAB, Fortran, R, Linux shell scripting, JavaScript
+- Hydrometeorological data and platforms: ISMN, CRNS, SMAP, SWOT, China Institute of Geo-Environmental Monitoring, USGS, GRACE, GLDAS, CAMELS, CPC, MODIS, NOAA, SoilGrids
