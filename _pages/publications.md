@@ -38,4 +38,4 @@ Conferences
 - [ReconstructedTWS](https://github.com/PercyLeeMaxWell/ReconstructedTWS): An AI model for reconstructing GRACE-derived terrestrial water storage anomalies using in-situ groundwater levels and meteorological forcing
 - [Soil Water Retention Models Dataset](https://doi.org/10.7910/DVN/L0XVBG): A family of soil water retention models based on S-shaped functions
 - [Cross-scale Parameter Transfer Dataset](https://doi.org/10.7910/DVN/8VJDPT): AI-integrated scale conversion and pedo-transfer function estimation
-- [Streamflow Simulations with Differentiable HBV and LSTM Models](https://doi.org/10.5194/egusphere-2025-483): Streamflow simulation data using CAMELS datasets
+- [Streamflow Simulations with Differentiable HBV and LSTM Models](https://zenodo.org/records/16895228): Streamflow simulation data using CAMELS datasets
