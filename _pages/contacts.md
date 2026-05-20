@@ -8,9 +8,9 @@ redirect_from:
 
 Contacts
 ======
-* Twitter: <a href="https://twitter.com/PeijunLi0" target="_blank">@PeijunLi0</a>  
-* Email: <a href="mailto:peijunlicn@gmail.com">peijunlicn@gmail.com</a>  
+<!-- * Twitter: <a href="https://twitter.com/PeijunLi0" target="_blank">@PeijunLi0</a>   -->
+* Email: <a href="mailto:peijunli@psu.edu">peijunli@psu.edu</a>; <a href="mailto:peijunlicn@gmail.com">peijunlicn@gmail.com</a>  
 
 
 
-![alt text](PeijunL2.png)
+<!-- ![alt text](PeijunL2.png) -->

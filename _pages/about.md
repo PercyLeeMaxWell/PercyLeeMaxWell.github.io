@@ -20,7 +20,7 @@ Previous Work:
 * Coupled surface water–soil moisture–groundwater systems
 
 
-I earned my Ph.D. in Hydrological Sciences and am currently a Postdoctoral Scholar at Penn State, where I conduct research with the [MHPI](https://sites.google.com/view/mhpi/team) team.
+I earned my Ph.D. in Hydrological Sciences and am currently a Postdoctoral Scholar at [the Pennsylvania State University](https://www.psu.edu/), University Park, where I conduct research with the [MHPI](https://sites.google.com/view/mhpi/team) team.
 
 My research focuses on modeling and analyzing hydrological processes and their spatiotemporal variability. I employ a range of approaches, including statistical techniques, physically-based models, and hybrid methods that integrate both. These approaches are applied to diverse data sources, such as remote sensing products, in-situ observation networks—particularly sites equipped with specialized sensors—and secondary datasets.
 
