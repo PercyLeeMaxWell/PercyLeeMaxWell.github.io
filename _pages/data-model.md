@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Projects
+Previous Projects
 ======
 * Modeling of soil water cross different scales: Taking North China Plain as an example (National Natural Science Foundation of China); Participation; 2023-2026.
 * Thermal-mass coupling numerical simulation of in-situ heat treatment temperature-contaminant spatiotemporal distribution (National Key Research & Development Program of China); Participation; 2020-2023.
